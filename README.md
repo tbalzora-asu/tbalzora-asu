@@ -47,9 +47,11 @@ You can reach me through my [GitHub profile](https://github.com/zora) or message
   <a href="https://howulf.com" target="_blank">
     <img src="https://howulf.com/favicon.ico" width="32px" height="32px" alt="Howulf►">
   </a>
+
   <a href="https://vntro.net" target="_blank">
-    <img src="https://vntro.net/favicon.ico" width="32px" height="32px" alt="Vntro.net">
+    <img src="https://vntro.net/wp-content/uploads/2020/07/vntro-black.png" width="32px" height="32px" alt="Vntro">
   </a>
+
   <!-- End webpage buttons -->
 </p>
 
