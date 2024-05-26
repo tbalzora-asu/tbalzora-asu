@@ -4,7 +4,8 @@
 
 # 👋 Hi, I’m @tbalzora-asu
 
-## 😄 Pronouns: She/her 🌺
+#### 😄 Pronouns: She/her 🌺
+
 
 
 ## 🌸 About Me 🌸
