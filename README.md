@@ -26,7 +26,7 @@ Hi there! I'm Timothy, a **GIT fullstack major** at ASU. I have a deep love for 
 
 ### 💞️ Collaboration 💞️
 
-I'm always looking for new opportunities to collaborate on creative projects. If you're interested in working together on a musical, film, or web design project, feel free to reach out!
+I'm always looking for new opportunities to collaborate on creative projects. If you're interested in working together on a music, film, or web design project, feel free to reach out!
 
 ### 📫 Contact Me 📫
 
