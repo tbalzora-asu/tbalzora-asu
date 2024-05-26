@@ -6,6 +6,7 @@
 
 #### 😄 Pronouns: She/her 🌺
 
+![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
 
 ## 🌸 About Me 🌸
