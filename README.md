@@ -11,7 +11,7 @@
 
 ## 🌸 About Me 🌸
 
-Hi there! I'm Timothy, a **GIT fullstack major** at ASU. I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
+Hi there! I'm Thea, a **GIT fullstack major** at ASU. I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
 
 ### 🎵 Interests 🎵
 
