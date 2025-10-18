@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-thea-ff69b4">
 </p>
 
-# 👋🏽 Hi, I’m @tbalzora-asu
+# 👋🏽 Hi, I’m @tbalzora
 
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
