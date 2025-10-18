@@ -37,7 +37,7 @@ You can reach me through my [GitHub profile](https://github.com/zora) or message
   </a>
 <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/tbalzora/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@Timbalzora-0077B5?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-@Tbalzora-0077B5?style=flat-square&logo=linkedin">
   </a>
 </p>
 <h3>Some Projects I have been a part of: </h3>
