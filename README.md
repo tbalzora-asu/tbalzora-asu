@@ -2,13 +2,11 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-thea-ff69b4">
 </p>
 
-# 👋 Hi, I’m @tbalzora-asu
-
-#### 😄 Pronouns: She/her 🌺
+# 👋🏽 Hi, I’m @tbalzora-asu
 
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
-
+#### 😄 Pronouns: She/her 🌺
 ## 🌸 About Me 🌸
 
 Hi there! I'm Thea, a **GIT fullstack major** at ASU. I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
