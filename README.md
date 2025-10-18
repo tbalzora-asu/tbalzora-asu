@@ -9,7 +9,7 @@
 #### 😄 Pronouns: She/her 🌺
 ## 🌸 About Me 🌸
 
-I'm a **GIT fullstack major** at ASU. I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
+I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
 
 ### 🎵 Interests 🎵
 
