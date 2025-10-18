@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-lawulf-ff69b4">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-thea-ff69b4">
 </p>
 
 # 👋 Hi, I’m @tbalzora-asu
