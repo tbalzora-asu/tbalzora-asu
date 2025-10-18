@@ -28,7 +28,7 @@ I'm always looking for new opportunities to collaborate on creative projects. If
 
 ### 📫 Contact Me 📫
 
-You can reach me through my [GitHub profile](https://github.com/zora) or message me on:
+You can reach me through my [GitHub profile](https://github.com/theazora) or message me on:
 
 <p>
 <!-- Discord Button -->
