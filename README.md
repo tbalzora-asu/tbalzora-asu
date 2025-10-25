@@ -120,4 +120,8 @@ You can reach me through my [GitHub profile](https://github.com/theazora) or mes
 tbalzora-asu/tbalzora-asu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=lawulf&cover_image=true&theme=novatorem"
+       alt="Now Playing on Spotify" width="400" />
+</p>
 
