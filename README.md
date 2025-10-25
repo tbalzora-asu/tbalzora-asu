@@ -3,7 +3,7 @@
 </p>
 
 # 👋🏽 Hi, I’m Thea!
-<p align="center">
+<p align="left">
   <img src="https://theazora.dev/profile.jpg"
        width="180"
        style="border-radius:50%;
