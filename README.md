@@ -48,12 +48,49 @@ You can reach me through my [GitHub profile](https://github.com/theazora) or mes
     <img src="https://img.shields.io/badge/LinkedIn-@Tbalzora-0077B5?style=flat-square&logo=linkedin">
   </a>
 </p>
-<h3>Some Projects I have been a part of: </h3>
-<!-- Webpage Buttons with Favicons -->
-<p>
+<h3>🌟 Some Projects I’ve Been a Part Of</h3>
 
-  <a href="https://vntro.net" target="_blank">
-    <img src="https://vntro.net/vntro-icon-dark.png" width="32px" height="32px" alt="Vntro">
+<!-- Project Icons with hover glow -->
+<p style="display:flex; flex-wrap:wrap; gap:24px; align-items:center;">
+
+  <!-- Vntro -->
+  <a href="https://vntro.net" target="_blank" title="Vntro – Global creative network & brand lab">
+    <img src="https://vntro.net/vntro-icon-dark.png"
+         width="42" height="42"
+         style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
+         onmouseover="this.style.boxShadow='0 0 20px rgba(85,205,252,0.5)'"
+         onmouseout="this.style.boxShadow='0 0 10px rgba(255,255,255,0.1)'"
+         alt="Vntro Icon">
+  </a>
+
+  <!-- Jamrize -->
+  <a href="https://jamrize.com" target="_blank" title="Jamrize – A live collaboration hub for musicians">
+    <img src="https://jamrize.com/favicon.ico"
+         width="42" height="42"
+         style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
+         onmouseover="this.style.boxShadow='0 0 20px rgba(247,168,184,0.5)'"
+         onmouseout="this.style.boxShadow='0 0 10px rgba(255,255,255,0.1)'"
+         alt="Jamrize Icon">
+  </a>
+
+  <!-- Pianonet -->
+  <a href="https://pianonet.io" target="_blank" title="Pianonet – Real-time collaborative browser piano">
+    <img src="https://pianonet.io/favicon.ico"
+         width="42" height="42"
+         style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
+         onmouseover="this.style.boxShadow='0 0 20px rgba(85,205,252,0.5)'"
+         onmouseout="this.style.boxShadow='0 0 10px rgba(255,255,255,0.1)'"
+         alt="Pianonet Icon">
+  </a>
+
+  <!-- Opalvox -->
+  <a href="https://opalvox.space" target="_blank" title="Opalvox – Vocal modulation & synthesis app">
+    <img src="https://opalvox.space/favicon.ico"
+         width="42" height="42"
+         style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
+         onmouseover="this.style.boxShadow='0 0 20px rgba(255,255,255,0.5)'"
+         onmouseout="this.style.boxShadow='0 0 10px rgba(255,255,255,0.1)'"
+         alt="Opalvox Icon">
   </a>
 
   <!-- End webpage buttons -->
