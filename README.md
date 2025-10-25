@@ -15,7 +15,6 @@
 
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
-#### 😄 Pronouns: She/her 🌺
 ## 🌸 About Me 🌸
 
 I have a deep love for creative arts and enjoy expressing myself through various forms of art. Whether it's through music collaboration or making unique creations, I'm always excited to dive into new projects.
