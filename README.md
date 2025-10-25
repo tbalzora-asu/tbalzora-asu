@@ -3,6 +3,15 @@
 </p>
 
 # 👋🏽 Hi, I’m Thea!
+<p align="center">
+  <img src="https://theazora.dev/profile.jpg"
+       width="180"
+       style="border-radius:50%;
+              border:3px solid rgba(255,255,255,0.4);
+              box-shadow:0 0 25px rgba(85,205,252,0.35),
+                         0 0 45px rgba(247,168,184,0.25);" 
+       alt="Thea Balzora Portrait">
+</p>
 
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
