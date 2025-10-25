@@ -65,7 +65,7 @@ You can reach me through my [GitHub profile](https://github.com/theazora) or mes
 
   <!-- Jamrize -->
   <a href="https://jamrize.com" target="_blank" title="Jamrize – A live collaboration hub for musicians">
-    <img src="https://jamrize.com/favicon.ico"
+    <img src="https://jamrize.com/hero.png"
          width="42" height="42"
          style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
          onmouseover="this.style.boxShadow='0 0 20px rgba(247,168,184,0.5)'"
