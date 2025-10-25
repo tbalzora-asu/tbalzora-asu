@@ -83,15 +83,6 @@ You can reach me through my [GitHub profile](https://github.com/theazora) or mes
          alt="Pianonet Icon">
   </a>
 
-  <!-- Opalvox -->
-  <a href="https://opalvox.space" target="_blank" title="Opalvox – Vocal modulation & synthesis app">
-    <img src="https://opalvox.space/favicon.ico"
-         width="42" height="42"
-         style="border-radius:10px; transition:0.3s ease; box-shadow:0 0 10px rgba(255,255,255,0.1);"
-         onmouseover="this.style.boxShadow='0 0 20px rgba(255,255,255,0.5)'"
-         onmouseout="this.style.boxShadow='0 0 10px rgba(255,255,255,0.1)'"
-         alt="Opalvox Icon">
-  </a>
 
   <!-- End webpage buttons -->
 </p>
