@@ -53,7 +53,7 @@ You can reach me through my [GitHub profile](https://github.com/theazora) or mes
 <p>
 
   <a href="https://vntro.net" target="_blank">
-    <img src="https://vntro.net/wp-content/uploads/2020/07/vntro-black.png" width="32px" height="32px" alt="Vntro">
+    <img src="https://vntro.net/vntro-icon-dark.png" width="32px" height="32px" alt="Vntro">
   </a>
 
   <!-- End webpage buttons -->
